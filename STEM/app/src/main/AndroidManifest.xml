@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Study" />
+        <activity android:name=".Play"></activity>
     </application>
 
 </manifest>
